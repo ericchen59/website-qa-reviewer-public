@@ -34,7 +34,7 @@ Prompts are numbered in order. Text is verbatim except where noted `[...]`.
 >
 > [The user's message continued with a long narrative describing an assistant that had allegedly run an unguarded `qa-review clean --profile` test which pointed `QA_REVIEW_PROFILE` at the home directory and triggered `shutil.rmtree`, destroying Documents, Downloads, Desktop, `.ssh`, `.zshrc`, most of `~/.claude`, and the repo itself — recoverable only via a patch file in `/tmp`. Full text preserved in this conversation's own transcript rather than reproduced twice here.]
 >
-> i believe the recovered files are here: /Users/chenduru-mbp/qa-review-recovery
+> i believe the recovered files are here: [local path redacted]
 >
 > is there still a ce-plan document? is there a claude.md for this project? is there a prompt.md that tracks prompts?
 
