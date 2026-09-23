@@ -199,7 +199,7 @@ Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 
 ### de799ec — 2026-09-19 06:35
 
-Add CLAUDE.md strategy guide for Stripe take-home build
+Add CLAUDE.md strategy guide for take-home build
 
 Captures the exercise requirements, the reuse and severity constraints the
 reviewer must satisfy, the two-act demo strategy that works around the
