@@ -1,0 +1,15 @@
+*.html
+# Fixtures are page captures and seeded variants — they must ship so a
+# stranger can clone the repo and run the reviewer.
+!fixtures/*.html
+!tests/data/pages/*.html
+!tests/golden/*.html
+*.tmp
+.DS_Store
+.claude/*
+!.claude/skills/
+runs/
+.venv/
+__pycache__/
+~$*
+*.pdf

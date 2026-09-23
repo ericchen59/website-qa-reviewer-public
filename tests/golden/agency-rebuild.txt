@@ -1,0 +1,29 @@
+The review of sample-page against the approved copy found 6 differences:
+
+1. [FAIL] (i.1)
+   Page says: “over two decades”
+   Approved copy says: “nearly two decades”
+   Detail: approved "nearly" but page has "over"
+
+2. [FAIL] (s.1)
+   Page says: “$58,900”
+   Approved copy says: “$57,600”
+   Detail: approved "$57,600" but page has "$58,900"
+
+3. [FAIL] (s.2)
+   Page says: “Starting MSRP”
+   Approved copy says: “Starting MSRP*”
+   Detail: approved "MSRP*" but page has "MSRP"
+
+4. [FAIL] (e.1)
+   Page says: “three finishes: polished silver”
+   Approved copy says: “finishes that include polished silver”
+
+5. [FAIL] (d.1)
+   Page says: “*Price excludes tax.”
+   Approved copy says: “*Price excludes tax, dealer fees.”
+
+6. [FAIL] (d.5)
+   Page says: “*Price excludes tax.”
+   Approved copy says: “visible on load”
+   Detail: present but not visible on page load
